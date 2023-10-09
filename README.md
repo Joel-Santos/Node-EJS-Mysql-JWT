@@ -1,1 +1,1 @@
-# Node-EJS-Mysql-JWT
+# Node-Mysql-JWT
